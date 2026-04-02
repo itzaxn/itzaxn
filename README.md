@@ -5,7 +5,7 @@
 Front end developer ☑️<br></h2>
 <li>
   
-<ul>Languages I know : JavaScript & Python</ul>
+<ol>Languages I know : JavaScript & Python</ol>
   
 <ul>Currently learning: React, Next.js</ul>
 
