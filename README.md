@@ -1,12 +1,14 @@
 ###
 <h1>Hi there 👋</h1>
 <br>
-<h2>I am Ankan, Web developer with more than one year experience in building responsive and fast website in vanilla javascript.<br>
+<h2>I am Ankan, Web developer with more than one year experience in building responsive and fast website in vanilla javascript.<br><br><br>
 Front end developer ☑️<br></h2>
 <li>
 <ul>Languages I know : JavaScript & Python</ul>
+  
 <ul>Currently learning: React, Next.js</ul>
-</li style="font-size: 2rem;">
+
+</li style="font-size: 100rem;">
 <!--
 **itzankan-in/itzankan-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
