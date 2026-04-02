@@ -3,7 +3,7 @@
 <br>
 <h2>I am Ankan, Web developer with more than one year experience in building responsive and fast website in vanilla javascript.<br><br><br>
 Front end developer ☑️<br></h2>
-<li  style="font-size: 100rem;">
+<li  style="color: red;">
   
 <ul>Languages I know : JavaScript & Python</ul>
   
