@@ -1,8 +1,8 @@
-### Hi there 👋
-I am Ankan, Web developer with more than one year experience in building responsive and fast website in vanilla javascript.
-Front end developer ☑️
-Languages I know : JavaScript & Python
-Currently learning: React, Next.js
+### Hi there 👋<br>
+I am Ankan, Web developer with more than one year experience in building responsive and fast website in vanilla javascript.<br>
+Front end developer ☑️<br>
+Languages I know : JavaScript & Python <br> 
+Currently learning: React, Next.js<br>
 <!--
 **itzankan-in/itzankan-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
